@@ -4,7 +4,7 @@ import {Actions} from 'react-native-router-flux';
 
 const MAX_RESULT = 15;
 const PLAYLIST_ID = "PLScC8g4bqD47c-qHlsfhGH3j6Bg7jzFy-";
-const API_KEY = "AIzaSyCHKMF7u-1O7rvAcryhpbRzIYcvf_RGgXY";
+const API_KEY = "XXX_API_KEY";
 
 export default class Home extends Component<{}> {
   
