@@ -6,7 +6,7 @@ While building certain types of mobile apps, you might need to have media files 
 We’ll be building a simple mobile app using React Native called `OurTube` which will pull videos from the new trailers on Rotten Tomato youtube channel via the Youtube API and display them to the user. After displaying, we should also be able to tap on a video and have it play inside the app.
 
 
-[View tutorial](#)
+[View tutorial](https://pusher.com/tutorials/youtube-react-native)
 
 ## Getting Started
 Clone the project repository by running the command below if you use SSH
